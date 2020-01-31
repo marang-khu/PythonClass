@@ -1,4 +1,4 @@
-
+# this is a test
 import random
 ans =  random.randint(0,10) #取從1到10的亂數
 times = 0
